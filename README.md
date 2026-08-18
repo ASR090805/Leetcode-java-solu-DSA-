@@ -30,6 +30,7 @@ all my leetcode solved question in java or c lang
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
@@ -40,6 +41,7 @@ all my leetcode solved question in java or c lang
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 <!---LeetCode Topics End-->
