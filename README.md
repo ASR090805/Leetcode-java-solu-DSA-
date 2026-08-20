@@ -34,6 +34,7 @@ all my leetcode solved question in java or c lang
 | [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -41,6 +42,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -58,4 +60,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0069-sqrtx) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
