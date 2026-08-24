@@ -36,6 +36,7 @@ all my leetcode solved question in java or c lang
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -83,4 +84,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
