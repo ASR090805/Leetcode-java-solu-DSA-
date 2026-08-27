@@ -6,7 +6,7 @@ class Solution {
                 i=i+1;
                 j=j+1;
             }
-            else if(s.charAt(i)!=t.charAt(j)){
+            else{
                 i=i+1;
             }
         }
