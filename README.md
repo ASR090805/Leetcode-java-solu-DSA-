@@ -9,6 +9,7 @@ all my leetcode solved question in java or c lang
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 ## Recursion
 |  |
 | ------- |
@@ -61,6 +62,7 @@ all my leetcode solved question in java or c lang
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
@@ -104,6 +106,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
+| [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 ## Quicksort
 |  |
 | ------- |
@@ -112,4 +115,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
