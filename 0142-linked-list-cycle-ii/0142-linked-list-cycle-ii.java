@@ -23,12 +23,12 @@ public class Solution {
             }
         }
         if(has_cycle){
-            fast=head;
-           while(fast!=slow){
-            fast=fast.next;
+           ListNode temp=head;
+           while(temp!=slow){
+            temp=temp.next;
             slow=slow.next;
            }
-           return fast;
+           return temp;
         }
         return null;
     }
