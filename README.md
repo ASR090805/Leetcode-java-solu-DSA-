@@ -10,6 +10,7 @@ all my leetcode solved question in java or c lang
 | [0021-merge-two-sorted-lists](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -63,6 +64,7 @@ all my leetcode solved question in java or c lang
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
@@ -107,6 +109,7 @@ all my leetcode solved question in java or c lang
 | ------- |
 | [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 ## Quicksort
 |  |
 | ------- |
@@ -119,4 +122,5 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
