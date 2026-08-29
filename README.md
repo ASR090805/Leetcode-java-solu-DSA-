@@ -21,6 +21,7 @@ all my leetcode solved question in java or c lang
 | ------- |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0069-sqrtx) |
+| [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -67,6 +68,7 @@ all my leetcode solved question in java or c lang
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -110,6 +112,7 @@ all my leetcode solved question in java or c lang
 | [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 ## Quicksort
 |  |
 | ------- |
@@ -123,4 +126,5 @@ all my leetcode solved question in java or c lang
 | ------- |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
