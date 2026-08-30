@@ -36,6 +36,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 ## Simulation
 |  |
 | ------- |
@@ -53,6 +54,7 @@ all my leetcode solved question in java or c lang
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -70,6 +72,7 @@ all my leetcode solved question in java or c lang
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0876-middle-of-the-linked-list) |
@@ -85,6 +88,7 @@ all my leetcode solved question in java or c lang
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Ternary Search
@@ -129,4 +133,9 @@ all my leetcode solved question in java or c lang
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
