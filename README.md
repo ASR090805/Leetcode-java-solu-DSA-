@@ -13,6 +13,7 @@ all my leetcode solved question in java or c lang
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -80,6 +81,7 @@ all my leetcode solved question in java or c lang
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Binary Search
@@ -145,4 +147,5 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
