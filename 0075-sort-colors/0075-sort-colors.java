@@ -12,11 +12,11 @@ class Solution {
                 k++;
             }
             else{
-                int temp=nums[i];
-                nums[i]=nums[k];
-                nums[k]=temp;
-                k++;
+                int temp=nums[k];
+                nums[k]=nums[i];
+                nums[i]=temp;
                 i++;
+                k++;
             }
         }
     }
