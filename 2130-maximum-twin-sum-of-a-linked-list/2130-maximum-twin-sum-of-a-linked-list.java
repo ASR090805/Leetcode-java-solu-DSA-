@@ -21,7 +21,7 @@ class Solution {
         int max=0;
         while(slow!=null){
             int sum=slow.val+fast.val;
-            if(sum>=max){
+            if(sum>max){
                 max=sum;
             }
             slow=slow.next;
