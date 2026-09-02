@@ -56,6 +56,7 @@ all my leetcode solved question in java or c lang
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
+| [0118-pascals-triangle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0118-pascals-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -157,4 +158,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
