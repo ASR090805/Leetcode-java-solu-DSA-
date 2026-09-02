@@ -1,23 +1,16 @@
 class Solution {
-    public int sum(int i,int j,int[] nums){
-        int sum=0;
-        while(i<=j){
-            sum+=nums[i];
-            i++;
-        }
-        return sum;
-    }
     public int pivotIndex(int[] nums) {
-        int pivot=0;
-        while(pivot<nums.length){
-            int leftSum=sum(0,pivot-1,nums);
-            int rightSum=sum(pivot+1,nums.length-1,nums);
-            if(leftSum!=rightSum){
-                pivot++;
+        int totalsum=0;
+        for(int i=0;i<nums.length;i++){
+            totalsum+=nums[i];
+        }
+        int left=0;
+        for(int i=0;i<nums.length;i++){
+            int right=totalsum-left-nums[i];
+            if(left==right){
+                return i;
             }
-            else{
-                return pivot;
-            }
+            left+=nums[i];
         }
         return -1;
     }
