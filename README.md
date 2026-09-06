@@ -69,6 +69,7 @@ all my leetcode solved question in java or c lang
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0941-valid-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Two Pointers
