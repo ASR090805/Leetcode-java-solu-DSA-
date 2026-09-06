@@ -70,6 +70,7 @@ all my leetcode solved question in java or c lang
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -131,6 +132,7 @@ all my leetcode solved question in java or c lang
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
+| [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
@@ -154,6 +156,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
+| [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -178,4 +181,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0118-pascals-triangle) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
