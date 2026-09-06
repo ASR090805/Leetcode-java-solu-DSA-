@@ -67,6 +67,7 @@ all my leetcode solved question in java or c lang
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0941-valid-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0941-valid-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -94,6 +95,7 @@ all my leetcode solved question in java or c lang
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0876-middle-of-the-linked-list) |
+| [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -127,6 +129,7 @@ all my leetcode solved question in java or c lang
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
