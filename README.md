@@ -65,6 +65,7 @@ all my leetcode solved question in java or c lang
 | [0283-move-zeroes](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0414-third-maximum-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -149,6 +150,7 @@ all my leetcode solved question in java or c lang
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Quicksort
 |  |
