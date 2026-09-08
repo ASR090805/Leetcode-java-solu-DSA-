@@ -34,6 +34,7 @@ all my leetcode solved question in java or c lang
 | [0125-valid-palindrome](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Bit Manipulation
@@ -96,6 +97,7 @@ all my leetcode solved question in java or c lang
 | [0283-move-zeroes](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
+| [0557-reverse-words-in-a-string-iii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
