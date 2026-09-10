@@ -70,6 +70,7 @@ all my leetcode solved question in java or c lang
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -139,6 +140,7 @@ all my leetcode solved question in java or c lang
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0414-third-maximum-number) |
+| [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
@@ -148,6 +150,7 @@ all my leetcode solved question in java or c lang
 ## Greedy
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
@@ -196,6 +199,7 @@ all my leetcode solved question in java or c lang
 ## Counting Sort
 |  |
 | ------- |
+| [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 ## Sliding Window
 |  |
