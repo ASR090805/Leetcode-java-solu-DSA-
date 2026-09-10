@@ -46,6 +46,7 @@ all my leetcode solved question in java or c lang
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
 ## Array
 |  |
@@ -56,6 +57,7 @@ all my leetcode solved question in java or c lang
 | [0027-remove-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -207,4 +209,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
