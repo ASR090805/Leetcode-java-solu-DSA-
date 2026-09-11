@@ -31,6 +31,7 @@ all my leetcode solved question in java or c lang
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0014-longest-common-prefix) |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
@@ -52,6 +53,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0027-remove-element) |
@@ -213,4 +215,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
