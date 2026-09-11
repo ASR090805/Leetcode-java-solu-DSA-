@@ -21,6 +21,7 @@ all my leetcode solved question in java or c lang
 | [0021-merge-two-sorted-lists](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -92,6 +93,7 @@ all my leetcode solved question in java or c lang
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -174,6 +176,7 @@ all my leetcode solved question in java or c lang
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
 | ------- |
@@ -244,4 +247,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
