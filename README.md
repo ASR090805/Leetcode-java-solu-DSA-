@@ -93,6 +93,7 @@ all my leetcode solved question in java or c lang
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Two Pointers
@@ -177,6 +178,7 @@ all my leetcode solved question in java or c lang
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
 |  |
@@ -222,6 +224,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
 | ------- |
