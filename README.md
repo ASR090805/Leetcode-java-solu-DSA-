@@ -43,6 +43,7 @@ all my leetcode solved question in java or c lang
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
+| [3498-reverse-degree-of-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,6 +56,7 @@ all my leetcode solved question in java or c lang
 | [0059-spiral-matrix-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
+| [3498-reverse-degree-of-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
 |  |
 | ------- |
