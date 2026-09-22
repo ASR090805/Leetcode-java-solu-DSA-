@@ -34,6 +34,7 @@ all my leetcode solved question in java or c lang
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
@@ -177,6 +178,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
@@ -228,6 +230,7 @@ all my leetcode solved question in java or c lang
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0643-maximum-average-subarray-i) |
