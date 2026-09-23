@@ -44,6 +44,7 @@ all my leetcode solved question in java or c lang
 | [0344-reverse-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0344-reverse-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
@@ -190,6 +191,7 @@ all my leetcode solved question in java or c lang
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0904-fruit-into-baskets](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0904-fruit-into-baskets) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1832-check-if-the-sentence-is-pangram](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Quicksort
