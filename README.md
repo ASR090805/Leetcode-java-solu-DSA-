@@ -102,6 +102,7 @@ all my leetcode solved question in java or c lang
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -150,6 +151,7 @@ all my leetcode solved question in java or c lang
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Ternary Search
 |  |
@@ -172,12 +174,14 @@ all my leetcode solved question in java or c lang
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 ## Hash Table
 |  |
@@ -225,6 +229,7 @@ all my leetcode solved question in java or c lang
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -245,6 +250,7 @@ all my leetcode solved question in java or c lang
 | [0643-maximum-average-subarray-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0904-fruit-into-baskets) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
+| [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Matrix
 |  |
