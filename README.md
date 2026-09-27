@@ -73,6 +73,7 @@ all my leetcode solved question in java or c lang
 | [0033-search-in-rotated-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
+| [0056-merge-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
@@ -167,6 +168,7 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0015-3sum) |
+| [0056-merge-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0414-third-maximum-number) |
@@ -204,6 +206,7 @@ all my leetcode solved question in java or c lang
 ## Quicksort
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0075-sort-colors) |
 ## Bubble Sort
 |  |
