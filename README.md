@@ -21,6 +21,7 @@ all my leetcode solved question in java or c lang
 | [0021-merge-two-sorted-lists](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0024-swap-nodes-in-pairs) |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
+| [0342-power-of-four](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0342-power-of-four) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
@@ -31,6 +32,7 @@ all my leetcode solved question in java or c lang
 | [0069-sqrtx](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
+| [0342-power-of-four](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0342-power-of-four) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -54,6 +56,7 @@ all my leetcode solved question in java or c lang
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
 | [0187-repeated-dna-sequences](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
 | ------- |
