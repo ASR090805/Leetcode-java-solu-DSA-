@@ -112,6 +112,7 @@ all my leetcode solved question in java or c lang
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3169-count-days-without-meetings) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Two Pointers
@@ -185,6 +186,7 @@ all my leetcode solved question in java or c lang
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3169-count-days-without-meetings](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3169-count-days-without-meetings) |
 ## Greedy
 |  |
 | ------- |
