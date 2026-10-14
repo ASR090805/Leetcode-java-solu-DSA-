@@ -106,6 +106,7 @@ all my leetcode solved question in java or c lang
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0986-interval-list-intersections) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -184,6 +185,7 @@ all my leetcode solved question in java or c lang
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
+| [1288-remove-covered-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
