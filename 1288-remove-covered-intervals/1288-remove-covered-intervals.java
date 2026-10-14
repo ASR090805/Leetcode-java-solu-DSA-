@@ -1,22 +1,16 @@
 class Solution {
     public int removeCoveredIntervals(int[][] intervals) {
-        int count=0;
+        List<int[]> res= new ArrayList<>();
         for(int i=0;i<intervals.length;i++){
-            int c=intervals[i][0];
-            int d=intervals[i][1];
-            boolean iscovered=false;
-            for(int j=0;j<intervals.length;j++){
-                int a=intervals[j][0];
-                int b=intervals[j][1];
-                if(i!=j && (a<=c && b>=d)){
-                    iscovered=true;
-                    break;
-                }            
-            }
-            if(!iscovered){
-                count++;
+            res.add(intervals[i]);
+        }
+        res.sort((a,b)-> a[0]==b[0]?b[1]-a[1]: a[0]-b[0]);
+        for(int i=1;i<res.size();i++){
+            if(res.get(i-1)[1]>=res.get(i)[1]){
+                res.remove(res.get(i));
+                i--;
             }
         }
-        return count;
+        return res.size();
     }
 }
