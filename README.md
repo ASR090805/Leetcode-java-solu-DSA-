@@ -98,6 +98,7 @@ all my leetcode solved question in java or c lang
 | [0561-array-partition](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0561-array-partition) |
 | [0643-maximum-average-subarray-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
+| [0729-my-calendar-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -161,6 +162,7 @@ all my leetcode solved question in java or c lang
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0287-find-the-duplicate-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0287-find-the-duplicate-number) |
+| [0729-my-calendar-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -317,13 +319,16 @@ all my leetcode solved question in java or c lang
 ## Design
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
 ## Segment Tree
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
 ## Ordered Set
 |  |
 | ------- |
+| [0729-my-calendar-i](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0729-my-calendar-i) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
 <!---LeetCode Topics End-->
