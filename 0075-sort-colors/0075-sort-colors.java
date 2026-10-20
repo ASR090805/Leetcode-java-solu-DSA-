@@ -20,10 +20,9 @@ class Solution {
             }
         }*/
         for(int i=0;i<nums.length;i++){
-            int min=Integer.MAX_VALUE,indx=0;
+            int indx=i;
             for(int j=i;j<nums.length;j++){
-                if(nums[j]<min){
-                    min=nums[j];
+                if(nums[j]<nums[indx]){
                     indx=j;
                 }
             }
