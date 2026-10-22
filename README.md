@@ -114,6 +114,7 @@ all my leetcode solved question in java or c lang
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -168,6 +169,7 @@ all my leetcode solved question in java or c lang
 | [0852-peak-index-in-a-mountain-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Ternary Search
 |  |
@@ -194,6 +196,7 @@ all my leetcode solved question in java or c lang
 | [1288-remove-covered-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3169-count-days-without-meetings](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3169-count-days-without-meetings) |
 ## Greedy
