@@ -34,6 +34,7 @@ all my leetcode solved question in java or c lang
 | [0189-rotate-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0202-happy-number) |
 | [0342-power-of-four](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0342-power-of-four) |
+| [2409-count-days-spent-together](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
@@ -49,6 +50,7 @@ all my leetcode solved question in java or c lang
 | [0557-reverse-words-in-a-string-iii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0680-valid-palindrome-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0680-valid-palindrome-ii) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [2409-count-days-spent-together](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2409-count-days-spent-together) |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2486-append-characters-to-string-to-make-subsequence) |
 | [3498-reverse-degree-of-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Bit Manipulation
