@@ -66,6 +66,7 @@ all my leetcode solved question in java or c lang
 | [0054-spiral-matrix](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0067-add-binary) |
+| [1094-car-pooling](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1094-car-pooling) |
 | [2326-spiral-matrix-iv](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2326-spiral-matrix-iv) |
 | [3498-reverse-degree-of-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/3498-reverse-degree-of-a-string) |
 ## Array
@@ -112,6 +113,7 @@ all my leetcode solved question in java or c lang
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [0986-interval-list-intersections](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0986-interval-list-intersections) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1288-remove-covered-intervals) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
@@ -198,6 +200,7 @@ all my leetcode solved question in java or c lang
 | [0905-sort-array-by-parity](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1051-height-checker) |
+| [1094-car-pooling](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1094-car-pooling) |
 | [1200-minimum-absolute-difference](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1200-minimum-absolute-difference) |
 | [1288-remove-covered-intervals](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1288-remove-covered-intervals) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -261,6 +264,7 @@ all my leetcode solved question in java or c lang
 | [0209-minimum-size-subarray-sum](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0724-find-pivot-index) |
 | [0731-my-calendar-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0731-my-calendar-ii) |
+| [1094-car-pooling](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1094-car-pooling) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1838-frequency-of-the-most-frequent-element) |
 ## Dynamic Programming
 |  |
@@ -351,4 +355,8 @@ all my leetcode solved question in java or c lang
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0164-maximum-gap) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1094-car-pooling](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/1094-car-pooling) |
 <!---LeetCode Topics End-->
