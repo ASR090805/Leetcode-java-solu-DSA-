@@ -13,6 +13,7 @@ all my leetcode solved question in java or c lang
 | [0092-reverse-linked-list-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0092-reverse-linked-list-ii) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0143-reorder-list) |
 | [0147-insertion-sort-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0147-insertion-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0206-reverse-linked-list) |
@@ -25,6 +26,7 @@ all my leetcode solved question in java or c lang
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +149,7 @@ all my leetcode solved question in java or c lang
 | [0125-valid-palindrome](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0189-rotate-array) |
@@ -264,6 +267,7 @@ all my leetcode solved question in java or c lang
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/0234-palindrome-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ASR090805/Leetcode-java-solu-DSA-/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Prefix Sum
